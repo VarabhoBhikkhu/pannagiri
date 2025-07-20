@@ -1,0 +1,1962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.4">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="841.89" PAGEHEIGHT="595.276" BORDERLEFT="14.1732" BORDERRIGHT="14.1732" BORDERTOP="14.1732" BORDERBOTTOM="14.1732" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="10" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="100" VTIEF="33" VTIEFSC="100" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Euroscale Coated v2" DPIn="Adobe RGB (1998)" DPInCMYK="Euroscale Coated v2" DPIn2="Adobe RGB (1998)" DPIn3="Euroscale Coated v2" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0013" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="DarkOliveGreen3" SPACE="CMYK" C="16.8627450980392" M="0" Y="45.0980392156863" K="19.6078431372549"/>
+        <COLOR NAME="Ei väriä" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="FromSVG#003900" SPACE="CMYK" C="22.3529411764706" M="0" Y="22.3529411764706" K="77.6470588235294"/>
+        <COLOR NAME="FromSVG#004c00" SPACE="CMYK" C="29.8039215686275" M="0" Y="29.8039215686275" K="70.1960784313725"/>
+        <COLOR NAME="FromSVG#004e00" SPACE="CMYK" C="30.5882352941176" M="0" Y="30.5882352941176" K="69.4117647058823"/>
+        <COLOR NAME="FromSVG#007900" SPACE="CMYK" C="47.4509803921569" M="0" Y="47.4509803921569" K="52.5490196078431"/>
+        <COLOR NAME="FromSVG#009900" SPACE="CMYK" C="60" M="0" Y="60" K="40"/>
+        <COLOR NAME="FromSVG#00cc00" SPACE="CMYK" C="80" M="0" Y="80" K="20"/>
+        <COLOR NAME="FromSVG#420066" SPACE="CMYK" C="14.1176470588235" M="40" Y="0" K="60"/>
+        <COLOR NAME="FromSVG#442400" SPACE="CMYK" C="0" M="12.5490196078431" Y="26.6666666666667" K="73.3333333333333"/>
+        <COLOR NAME="FromSVG#54007f" SPACE="CMYK" C="16.8627450980392" M="49.8039215686275" Y="0" K="50.1960784313725"/>
+        <COLOR NAME="FromSVG#551900" SPACE="CMYK" C="0" M="23.5294117647059" Y="33.3333333333333" K="66.6666666666667"/>
+        <COLOR NAME="FromSVG#5f0e00" SPACE="CMYK" C="0" M="31.7647058823529" Y="37.2549019607843" K="62.7450980392157"/>
+        <COLOR NAME="FromSVG#7f0000" SPACE="CMYK" C="0" M="49.8039215686275" Y="49.8039215686275" K="50.1960784313725"/>
+        <COLOR NAME="FromSVG#ca0000" SPACE="CMYK" C="0" M="79.2156862745098" Y="79.2156862745098" K="20.7843137254902"/>
+        <COLOR NAME="FromSVG#d70000" SPACE="CMYK" C="0" M="84.3137254901961" Y="84.3137254901961" K="15.6862745098039"/>
+        <COLOR NAME="FromSVG#ffa617" SPACE="CMYK" C="0" M="34.9019607843137" Y="90.9803921568627" K="0"/>
+        <COLOR NAME="FromSVG#ffe200" SPACE="CMYK" C="0" M="11.3725490196078" Y="100" K="0"/>
+        <COLOR NAME="FromSVG#ffffe8" SPACE="CMYK" C="0" M="0" Y="9.01960784313725" K="0"/>
+        <COLOR NAME="Grey0" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow1" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Header" ALIGN="0" LINESPMode="2" LINESP="26.4" INDENT="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Arial Regular" FONTSIZE="22" FEATURES="inherit" FCOLOR="FromSVG#d70000" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="SubHeader" ALIGN="0" LINESPMode="2" LINESP="16.8" INDENT="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Arial Regular" FONTSIZE="14" FEATURES="inherit" FCOLOR="FromSVG#d70000" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="BodyTextRight" ALIGN="2" LINESPMode="2" LINESP="14.2" INDENT="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Arial Regular" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="BodyTextLeft" ALIGN="0" LINESPMode="2" LINESP="14.2" INDENT="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Arial Regular" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="ImageCaption" ALIGN="0" LINESPMode="0" LINESP="10.8" INDENT="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Arial Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="BodyTextLoose" ALIGN="0" LINESPMode="2" LINESP="26.4" INDENT="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Arial Regular" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="TemplateBGLayer" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="File" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="0" Intent2="0" SolidP="Adobe RGB (1998)" ImageP="Adobe RGB (1998)" PrintP="Euroscale Coated v2" InfoString="" BTop="14.1732" BLeft="14.1732" BRight="14.1732" BBottom="14.1732" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="75" Angle="45" SpotFunction="2"/>
+            <LPI Color="Cyan" Frequency="75" Angle="105" SpotFunction="2"/>
+            <LPI Color="Magenta" Frequency="75" Angle="75" SpotFunction="2"/>
+            <LPI Color="Yellow" Frequency="75" Angle="90" SpotFunction="2"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.89" PAGEHEIGHT="595.276" BORDERLEFT="14.1732" BORDERRIGHT="14.1732" BORDERTOP="14.1732" BORDERBOTTOM="14.1732" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.89" PAGEHEIGHT="595.276" BORDERLEFT="14.1732" BORDERRIGHT="14.1732" BORDERTOP="14.1732" BORDERBOTTOM="14.1732" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="29.5082 263.659 272.163 280.667 552.83 561.334 569.838 824.59 " HorizontalGuides="45.082 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="655.276" PAGEWIDTH="841.89" PAGEHEIGHT="595.276" BORDERLEFT="14.1732" BORDERRIGHT="14.1732" BORDERTOP="14.1732" BORDERBOTTOM="14.1732" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="272.163 280.667 289.171 561.334 569.838 578.342 " HorizontalGuides="45.0794 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="93.44262" YPOS="601" OwnPage="0" ItemID="106266690" PTYPE="6" WIDTH="863.934" HEIGHT="16.5738" FRTYPE="0" CLIPEDIT="0" GRTYP="6" PWIDTH="1" PCOLOR="Black" PCOLOR2="Ei väriä" PLINEART="1" TEXTFLOWMODE="1" path="M0 0 L863.934 0 L863.934 16.5738 L0 16.5738 L0 0 Z" copath="M0 0 L863.934 0 L863.934 16.5738 L0 16.5738 L0 0 Z" OnMasterPage="Normal" gXpos="93.44262" gYpos="127020.924" gWidth="0" gHeight="0" GRSTARTX="431.967" GRSTARTY="0" GRENDX="431.967" GRENDY="16.5738" GRFOCALX="431.967" GRFOCALY="0" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="DarkOliveGreen3" SHADE="100" TRANS="1"/>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="83" YPOS="17" OwnPage="0" ItemID="106200578" PTYPE="6" WIDTH="863.934" HEIGHT="16.5738" FRTYPE="0" CLIPEDIT="0" GRTYP="6" PWIDTH="1" PCOLOR="Black" PCOLOR2="Ei väriä" PLINEART="1" TEXTFLOWMODE="1" path="M0 0 L863.934 0 L863.934 16.5738 L0 16.5738 L0 0 Z" copath="M0 0 L863.934 0 L863.934 16.5738 L0 16.5738 L0 0 Z" OnMasterPage="Normal" gXpos="83" gYpos="126436.924" gWidth="0" gHeight="0" GRSTARTX="431.967" GRSTARTY="0" GRENDX="431.967" GRENDY="16.5738" GRFOCALX="431.967" GRFOCALY="0" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="DarkOliveGreen3" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="White" SHADE="100" TRANS="1"/>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="381" YPOS="492.131" OwnPage="0" ItemID="108347490" PTYPE="4" WIDTH="272.459" HEIGHT="101.868" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L272.459 0 L272.459 101.868 L0 101.868 L0 0 Z" copath="M0 0 L272.459 0 L272.459 101.868 L0 101.868 L0 0 Z" gXpos="381" gYpos="492.131" gWidth="0" gHeight="0" ALIGN="7" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="7" LINESPMode="0" LINESP="13.2" FONT="Arial Regular" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Address Line 1"/>
+                <para PARENT="BodyTextRight"/>
+                <ITEXT CH="Address Line 2"/>
+                <para PARENT="BodyTextRight"/>
+                <ITEXT CH="Address Line 3"/>
+                <para PARENT="BodyTextRight"/>
+                <para PARENT="BodyTextRight"/>
+                <ITEXT CH="Tel: 123-123-12345"/>
+                <para PARENT="BodyTextRight"/>
+                <ITEXT CH="Email: company@company.com"/>
+                <trail PARENT="BodyTextRight"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="530" OwnPage="0" ItemID="108475826" PTYPE="4" WIDTH="253.59" HEIGHT="34.7705" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83465" TEXTRA="1.00063" BEXTRA="1.00063" REXTRA="1.00063" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L253.59 0 L253.59 34.7705 L0 34.7705 L0 0 Z" copath="M0 0 L253.59 0 L253.59 34.7705 L0 34.7705 L0 0 Z" gXpos="672" gYpos="530" gWidth="0" gHeight="0" ALIGN="6" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="6" LINESPMode="0" LINESP="15.6" FONT="Arial Regular" FONTSIZE="13" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Company's Slogan"/>
+                <trail PARENT="SubHeader"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="671" YPOS="47.541" OwnPage="0" ItemID="108429762" PTYPE="4" WIDTH="253.59" HEIGHT="41.2131" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="2.83465" TEXTRA="1.00063" BEXTRA="1.00063" REXTRA="1.00063" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L253.59 0 L253.59 41.2131 L0 41.2131 L0 0 Z" copath="M0 0 L253.59 0 L253.59 41.2131 L0 41.2131 L0 0 Z" gXpos="671" gYpos="47.541" gWidth="0" gHeight="0" ALIGN="5" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="5" LINESPMode="0" LINESP="21.6" FONT="Arial Regular" FONTSIZE="18" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Arial Regular" CH="Company Name"/>
+                <trail PARENT="Header"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="671" YPOS="216.721" OwnPage="0" ItemID="108333138" PTYPE="4" WIDTH="253.59" HEIGHT="31.9672" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5.66929" TEXTRA="1.00063" BEXTRA="1.00063" REXTRA="1.00063" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L253.59 0 L253.59 31.9672 L0 31.9672 L0 0 Z" copath="M0 0 L253.59 0 L253.59 31.9672 L0 31.9672 L0 0 Z" gXpos="671" gYpos="216.721" gWidth="0" gHeight="0" ALIGN="6" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="6" LINESPMode="0" LINESP="18" FONT="Arial Regular" FONTSIZE="15" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Brochure Header"/>
+                <trail PARENT="SubHeader"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100113" YPOS="100513" OwnPage="-1" ItemID="108488770" PTYPE="7" WIDTH="1" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="1" path="M0 0 L1 0 L1 1 L0 1 L0 0 " copath="M0 0 L1 0 L1 1 L0 1 L0 0 Z" gXpos="100113" gYpos="100513" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="670" YPOS="567.541" OwnPage="0" ItemID="108481506" PTYPE="4" WIDTH="255" HEIGHT="26.4586" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L255 0 L255 26.4586 L0 26.4586 L0 0 Z" copath="M0 0 L255 0 L255 26.4586 L0 26.4586 L0 0 Z" gXpos="670" gYpos="567.541" gWidth="0" gHeight="0" ALIGN="7" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="7" LINESPMode="0" LINESP="13.2" FONT="Arial Regular" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Tel: 123-123-12345"/>
+                <trail PARENT="BodyTextRight"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="789" YPOS="269.468" OwnPage="0" ItemID="108558706" PTYPE="6" WIDTH="87" HEIGHT="65.5317" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.29895" PCOLOR="FromSVG#d70000" PCOLOR2="FromSVG#7f0000" PLINEART="1" LOCK="1" path="M45.9857 0.42553 C49.9629 1.06383 59.4086 0.42553 70.5943 0.851064 C76.56 4.2553 85.757 8.51064 87 26.1702 C86.0059 33.4041 75.8143 57.6594 72.0857 58.7232 C68.3571 59.7871 60.6514 63.1913 55.1829 63.4041 C45.24 62.553 42.5057 64.8934 38.5286 65.319 C29.0829 65.5317 16.6543 57.4467 5.46857 36.3828 C0 21.702 2.73429 10.6383 17.4 1.06383 C27.84 0 41.0143 0 45.9857 0.42553 Z" copath="M45.9857 0.42553 C49.9629 1.06383 59.4086 0.42553 70.5943 0.851064 C76.56 4.2553 85.757 8.51064 87 26.1702 C86.0059 33.4041 75.8143 57.6594 72.0857 58.7232 C68.3571 59.7871 60.6514 63.1913 55.1829 63.4041 C45.24 62.553 42.5057 64.8934 38.5286 65.319 C29.0829 65.5317 16.6543 57.4467 5.46857 36.3828 C0 21.702 2.73429 10.6383 17.4 1.06383 C27.84 0 41.0143 0 45.9857 0.42553 Z" gXpos="789" gYpos="269.468" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="798.446" YPOS="259.042" OwnPage="0" ItemID="108551634" PTYPE="6" WIDTH="70.3457" HEIGHT="30.6382" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.29895" PCOLOR="FromSVG#007900" PCOLOR2="FromSVG#004c00" PLINEART="1" PLINEJOIN="64" LOCK="1" path="M9.19711 30.6382 C13.4229 26.3828 22.1229 22.7659 29.58 13.1915 C29.58 12.9787 27.5914 24.6808 32.0657 30.4255 C35.2971 24.8935 36.54 17.4468 38.28 15.3191 C39.7714 15.9575 47.2286 23.8297 55.1829 25.5318 C52.9457 22.3403 48.4714 18.2979 48.9686 16.5957 C47.9743 12.1276 61.1486 25.5318 67.86 20.4255 C59.6571 19.1489 55.68 16.3829 54.1886 13.4042 C55.9286 11.702 66.6171 10.4256 70.3457 5.5319 C61.3971 10.2127 53.94 10.2127 50.46 9.14889 C46.2343 8.51064 32.8114 8.51064 29.58 7.44679 C29.3314 8.51064 16.1571 0 5.71714 3.40424 C17.4 4.46807 21.1286 6.17019 21.8743 8.29787 C11.1857 8.29787 5.46857 10.6383 0 10.2127 C1.24286 12.766 21.3771 14.8935 24.1114 12.3404 C8.20289 20.6383 7.70571 26.8084 9.19711 30.6382 Z" copath="M9.19711 30.6382 C13.4229 26.3828 22.1229 22.7659 29.58 13.1915 C29.58 12.9787 27.5914 24.6808 32.0657 30.4255 C35.2971 24.8935 36.54 17.4468 38.28 15.3191 C39.7714 15.9575 47.2286 23.8297 55.1829 25.5318 C52.9457 22.3403 48.4714 18.2979 48.9686 16.5957 C47.9743 12.1276 61.1486 25.5318 67.86 20.4255 C59.6571 19.1489 55.68 16.3829 54.1886 13.4042 C55.9286 11.702 66.6171 10.4256 70.3457 5.5319 C61.3971 10.2127 53.94 10.2127 50.46 9.14889 C46.2343 8.51064 32.8114 8.51064 29.58 7.44679 C29.3314 8.51064 16.1571 0 5.71714 3.40424 C17.4 4.46807 21.1286 6.17019 21.8743 8.29787 C11.1857 8.29787 5.46857 10.6383 0 10.2127 C1.24286 12.766 21.3771 14.8935 24.1114 12.3404 C8.20289 20.6383 7.70571 26.8084 9.19711 30.6382 Z" gXpos="798.446" gYpos="259.042" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="832.251" YPOS="255" OwnPage="0" ItemID="108555714" PTYPE="6" WIDTH="7.95429" HEIGHT="17.2339" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.29895" PCOLOR="FromSVG#007900" PCOLOR2="FromSVG#004c00" PLINEART="1" PLINEJOIN="64" LOCK="1" path="M0 14.6808 C3.23143 10.6383 4.72286 8.93614 4.97143 2.55318 C6.46286 0 7.95429 3.19148 7.95429 3.19148 C7.95429 3.19148 7.20857 9.78722 6.71143 15.1064 C5.46857 17.2339 0.248571 16.3829 0 14.6808 Z" copath="M0 14.6808 C3.23143 10.6383 4.72286 8.93614 4.97143 2.55318 C6.46286 0 7.95429 3.19148 7.95429 3.19148 C7.95429 3.19148 7.20857 9.78722 6.71143 15.1064 C5.46857 17.2339 0.248571 16.3829 0 14.6808 Z" gXpos="832.251" gYpos="255" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="839.211" YPOS="295.851" OwnPage="0" ItemID="108538930" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="839.211" gYpos="295.851" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="846.909" YPOS="306.6" OwnPage="0" ItemID="108654706" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="846.909" gYpos="306.6" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="852.176" YPOS="300.462" OwnPage="0" ItemID="108643730" PTYPE="6" WIDTH="3.26217" HEIGHT="4.51401" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.670495 0.495038 C0 0.846197 0.225965 4.51401 2.21939 4.33764 C3.26217 3.47597 2.06752 0 0.670495 0.495038 Z" copath="M0.670495 0.495038 C0 0.846197 0.225965 4.51401 2.21939 4.33764 C3.26217 3.47597 2.06752 0 0.670495 0.495038 Z" gXpos="852.176" gYpos="300.462" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.257" GRENDX="3.26217" GRENDY="2.257" GRFOCALX="0" GRFOCALY="2.257" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="835.226" YPOS="325.749" OwnPage="0" ItemID="108613954" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="835.226" gYpos="325.749" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="834.977" YPOS="314.046" OwnPage="0" ItemID="108701410" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="834.977" gYpos="314.046" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="827.023" YPOS="317.451" OwnPage="0" ItemID="108596306" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="827.023" gYpos="317.451" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="819.879" YPOS="320.857" OwnPage="0" ItemID="108721746" PTYPE="6" WIDTH="3.97064" HEIGHT="4.03442" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.46158 0 C1.67901 0.063416 0 3.44348 1.88137 4.03442 C3.26033 3.65235 3.97064 0.0804573 2.46158 0 Z" copath="M2.46158 0 C1.67901 0.063416 0 3.44348 1.88137 4.03442 C3.26033 3.65235 3.97064 0.0804573 2.46158 0 Z" gXpos="819.879" gYpos="320.857" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.01721" GRENDX="3.97064" GRENDY="2.01721" GRFOCALX="0" GRFOCALY="2.01721" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="812.034" YPOS="317.655" OwnPage="0" ItemID="108666178" PTYPE="6" WIDTH="3.71662" HEIGHT="4.05827" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.20461 0.000648509 C1.42824 0.105916 0 3.56939 1.92093 4.05827 C3.26921 3.60296 3.71662 0 2.20461 0.000648509 Z" copath="M2.20461 0.000648509 C1.42824 0.105916 0 3.56939 1.92093 4.05827 C3.26921 3.60296 3.71662 0 2.20461 0.000648509 Z" gXpos="812.034" gYpos="317.655" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02914" GRENDX="3.71662" GRENDY="2.02914" GRFOCALX="0" GRFOCALY="2.02914" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="797.882" YPOS="293.011" OwnPage="0" ItemID="108679906" PTYPE="6" WIDTH="4.26585" HEIGHT="3.9832" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.76875 0 C1.98281 0.0108187 0 3.26807 1.82159 3.9832 C3.23126 3.69464 4.26585 0.181266 2.76875 0 Z" copath="M2.76875 0 C1.98281 0.0108187 0 3.26807 1.82159 3.9832 C3.23126 3.69464 4.26585 0.181266 2.76875 0 Z" gXpos="797.882" gYpos="293.011" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="1.9916" GRENDX="4.26585" GRENDY="1.9916" GRFOCALX="0" GRFOCALY="1.9916" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="859.847" YPOS="317.871" OwnPage="0" ItemID="108674274" PTYPE="6" WIDTH="3.22841" HEIGHT="4.26031" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.46468 0.220383 C0.72047 0.436957 0 4.0577 1.99002 4.26031 C3.22841 3.61568 2.95461 0 1.46468 0.220383 Z" copath="M1.46468 0.220383 C0.72047 0.436957 0 4.0577 1.99002 4.26031 C3.22841 3.61568 2.95461 0 1.46468 0.220383 Z" gXpos="859.847" gYpos="317.871" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.13015" GRENDX="3.22841" GRENDY="2.13015" GRFOCALX="0" GRFOCALY="2.13015" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="799.884" YPOS="277.26" OwnPage="0" ItemID="108765650" PTYPE="6" WIDTH="4.85251" HEIGHT="3.88045" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M3.41925 0.112176 C2.64418 0 0 2.89268 1.63846 3.88045 C3.08597 3.81699 4.85251 0.524332 3.41925 0.112176 Z" copath="M3.41925 0.112176 C2.64418 0 0 2.89268 1.63846 3.88045 C3.08597 3.81699 4.85251 0.524332 3.41925 0.112176 Z" gXpos="799.884" gYpos="277.26" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="1.94023" GRENDX="4.85251" GRENDY="1.94023" GRFOCALX="0" GRFOCALY="1.94023" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="854.788" YPOS="312.018" OwnPage="0" ItemID="108787378" PTYPE="6" WIDTH="3.29441" HEIGHT="4.53039" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.66613 0.507623 C0 0.864822 0.271146 4.53039 2.2623 4.33602 C3.29441 3.46499 2.05698 0 0.66613 0.507623 Z" copath="M0.66613 0.507623 C0 0.864822 0.271146 4.53039 2.2623 4.33602 C3.29441 3.46499 2.05698 0 0.66613 0.507623 Z" gXpos="854.788" gYpos="312.018" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.26519" GRENDX="3.29441" GRENDY="2.26519" GRFOCALX="0" GRFOCALY="2.26519" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="808.511" YPOS="292.373" OwnPage="0" ItemID="108724834" PTYPE="6" WIDTH="4.40864" HEIGHT="3.96351" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.92137 0.016485 C2.13557 0 0 3.18572 1.7862 3.96351 C3.20836 3.72415 4.40864 0.249591 2.92137 0.016485 Z" copath="M2.92137 0.016485 C2.13557 0 0 3.18572 1.7862 3.96351 C3.20836 3.72415 4.40864 0.249591 2.92137 0.016485 Z" gXpos="808.511" gYpos="292.373" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="1.98175" GRENDX="4.40864" GRENDY="1.98175" GRFOCALX="0" GRFOCALY="1.98175" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="863.592" YPOS="299.606" OwnPage="0" ItemID="108746498" PTYPE="6" WIDTH="3.29441" HEIGHT="4.53039" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.66613 0.507623 C0 0.864822 0.271146 4.53039 2.2623 4.33602 C3.29441 3.46499 2.05698 0 0.66613 0.507623 Z" copath="M0.66613 0.507623 C0 0.864822 0.271146 4.53039 2.2623 4.33602 C3.29441 3.46499 2.05698 0 0.66613 0.507623 Z" gXpos="863.592" gYpos="299.606" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.26519" GRENDX="3.29441" GRENDY="2.26519" GRFOCALX="0" GRFOCALY="2.26519" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="863.404" YPOS="308.289" OwnPage="0" ItemID="108740306" PTYPE="6" WIDTH="3.60357" HEIGHT="4.66911" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.617098 0.633382 C0 1.05015 0.73265 4.66911 2.68755 4.29159 C3.60357 3.33014 1.93566 0 0.617098 0.633382 Z" copath="M0.617098 0.633382 C0 1.05015 0.73265 4.66911 2.68755 4.29159 C3.60357 3.33014 1.93566 0 0.617098 0.633382 Z" gXpos="863.404" gYpos="308.289" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.33455" GRENDX="3.60357" GRENDY="2.33455" GRFOCALX="0" GRFOCALY="2.33455" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="817.873" YPOS="310.01" OwnPage="0" ItemID="108830962" PTYPE="6" WIDTH="4.01186" HEIGHT="4.02895" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.50385 0 C1.72056 0.0563471 0 3.42106 1.87398 4.02895 C3.25758 3.65936 4.01186 0.0940764 2.50385 0 Z" copath="M2.50385 0 C1.72056 0.0563471 0 3.42106 1.87398 4.02895 C3.25758 3.65936 4.01186 0.0940764 2.50385 0 Z" gXpos="817.873" gYpos="310.01" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.01448" GRENDX="4.01186" GRENDY="2.01448" GRFOCALX="0" GRFOCALY="2.01448" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="866.926" YPOS="280.832" OwnPage="0" ItemID="108842978" PTYPE="6" WIDTH="3.93009" HEIGHT="4.76536" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.545745 0.779899 C0 1.26413 1.29653 4.76536 3.17404 4.16547 C3.93009 3.107 1.75237 0 0.545745 0.779899 Z" copath="M0.545745 0.779899 C0 1.26413 1.29653 4.76536 3.17404 4.16547 C3.93009 3.107 1.75237 0 0.545745 0.779899 Z" gXpos="866.926" gYpos="280.832" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.38268" GRENDX="3.93009" GRENDY="2.38268" GRFOCALX="0" GRFOCALY="2.38268" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="859.49" YPOS="273.02" OwnPage="0" ItemID="108790514" PTYPE="6" WIDTH="4.26071" HEIGHT="4.75522" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.431589 0.957614 C0 1.51995 2.03133 4.75522 3.74665 3.86823 C4.26071 2.70824 1.44869 0 0.431589 0.957614 Z" copath="M0.431589 0.957614 C0 1.51995 2.03133 4.75522 3.74665 3.86823 C4.26071 2.70824 1.44869 0 0.431589 0.957614 Z" gXpos="859.49" gYpos="273.02" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.37761" GRENDX="4.26071" GRENDY="2.37761" GRFOCALX="0" GRFOCALY="2.37761" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="869.809" YPOS="293.814" OwnPage="0" ItemID="108843874" PTYPE="6" WIDTH="3.69776" HEIGHT="4.70338" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.599041 0.67388 C0 1.10952 0.885442 4.70338 2.82307 4.26543 C3.69776 3.27619 1.8899 0 0.599041 0.67388 Z" copath="M0.599041 0.67388 C0 1.10952 0.885442 4.70338 2.82307 4.26543 C3.69776 3.27619 1.8899 0 0.599041 0.67388 Z" gXpos="869.809" gYpos="293.814" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.35169" GRENDX="3.69776" GRENDY="2.35169" GRFOCALX="0" GRFOCALY="2.35169" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="854.614" YPOS="290.642" OwnPage="0" ItemID="108810994" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="854.614" gYpos="290.642" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="847.772" YPOS="325.573" OwnPage="0" ItemID="108897826" PTYPE="6" WIDTH="3.21608" HEIGHT="4.27769" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.36425 0.248796 C0.625867 0.479534 0 4.11316 1.99482 4.27769 C3.21608 3.60954 2.84805 0 1.36425 0.248796 Z" copath="M1.36425 0.248796 C0.625867 0.479534 0 4.11316 1.99482 4.27769 C3.21608 3.60954 2.84805 0 1.36425 0.248796 Z" gXpos="847.772" gYpos="325.573" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.13884" GRENDX="3.21608" GRENDY="2.13884" GRFOCALX="0" GRFOCALY="2.13884" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="837.96" YPOS="280.642" OwnPage="0" ItemID="108868370" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="837.96" gYpos="280.642" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="806.738" YPOS="311.279" OwnPage="0" ItemID="108857266" PTYPE="6" WIDTH="3.89378" HEIGHT="4.0433" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" copath="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" gXpos="806.738" gYpos="311.279" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02165" GRENDX="3.89378" GRENDY="2.02165" GRFOCALX="0" GRFOCALY="2.02165" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="820.56" YPOS="282.132" OwnPage="0" ItemID="108916530" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="820.56" gYpos="282.132" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="819.069" YPOS="294.26" OwnPage="0" ItemID="108875938" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="819.069" gYpos="294.26" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="829.757" YPOS="290.856" OwnPage="0" ItemID="108985474" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="829.757" gYpos="290.856" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="797.661" YPOS="306.073" OwnPage="0" ItemID="108933154" PTYPE="6" WIDTH="4.10431" HEIGHT="4.01481" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.5994 0 C1.81474 0.040182 0 3.36845 1.85633 4.01481 C3.24992 3.67383 4.10431 0.125139 2.5994 0 Z" copath="M2.5994 0 C1.81474 0.040182 0 3.36845 1.85633 4.01481 C3.24992 3.67383 4.10431 0.125139 2.5994 0 Z" gXpos="797.661" gYpos="306.073" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.0074" GRENDX="4.10431" GRENDY="2.0074" GRFOCALX="0" GRFOCALY="2.0074" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="825.78" YPOS="301.707" OwnPage="0" ItemID="108954354" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="825.78" gYpos="301.707" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="848.807" YPOS="318.087" OwnPage="0" ItemID="108921618" PTYPE="6" WIDTH="3.49255" HEIGHT="4.62349" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.636343 0.587071 C0 0.982064 0.560511 4.62349 2.53171 4.31416 C3.49255 3.38531 1.98384 0 0.636343 0.587071 Z" copath="M0.636343 0.587071 C0 0.982064 0.560511 4.62349 2.53171 4.31416 C3.49255 3.38531 1.98384 0 0.636343 0.587071 Z" gXpos="848.807" gYpos="318.087" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.31175" GRENDX="3.49255" GRENDY="2.31175" GRFOCALX="0" GRFOCALY="2.31175" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="841.191" YPOS="318.302" OwnPage="0" ItemID="108943010" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="841.191" gYpos="318.302" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="826.526" YPOS="328.515" OwnPage="0" ItemID="109044626" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="826.526" gYpos="328.515" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="838.209" YPOS="307.026" OwnPage="0" ItemID="109000498" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="838.209" gYpos="307.026" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="846.411" YPOS="289.579" OwnPage="0" ItemID="109026706" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="846.411" gYpos="289.579" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="813.718" YPOS="301.49" OwnPage="0" ItemID="108986418" PTYPE="6" WIDTH="3.84417" HEIGHT="4.04812" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.33288 0 C1.55305 0.0846056 0 3.5085 1.90229 4.04812 C3.26643 3.62884 3.84417 0.039491 2.33288 0 Z" copath="M2.33288 0 C1.55305 0.0846056 0 3.5085 1.90229 4.04812 C3.26643 3.62884 3.84417 0.039491 2.33288 0 Z" gXpos="813.718" gYpos="301.49" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02406" GRENDX="3.84417" GRENDY="2.02406" GRFOCALX="0" GRFOCALY="2.02406" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="860.36" YPOS="284.712" OwnPage="0" ItemID="109095986" PTYPE="6" WIDTH="3.29441" HEIGHT="4.53039" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.666132 0.507623 C0 0.864822 0.271148 4.53039 2.2623 4.33602 C3.29441 3.46499 2.05698 0 0.666132 0.507623 Z" copath="M0.666132 0.507623 C0 0.864822 0.271148 4.53039 2.2623 4.33602 C3.29441 3.46499 2.05698 0 0.666132 0.507623 Z" gXpos="860.36" gYpos="284.712" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.26519" GRENDX="3.29441" GRENDY="2.26519" GRFOCALX="0" GRFOCALY="2.26519" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="812.749" YPOS="326.168" OwnPage="0" ItemID="109013282" PTYPE="6" WIDTH="3.78593" HEIGHT="4.05298" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.2741 0 C1.49579 0.0941272 0 3.53666 1.91111 4.05298 C3.2681 3.61708 3.78593 0.0210195 2.2741 0 Z" copath="M2.2741 0 C1.49579 0.0941272 0 3.53666 1.91111 4.05298 C3.2681 3.61708 3.78593 0.0210195 2.2741 0 Z" gXpos="812.749" gYpos="326.168" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02649" GRENDX="3.78593" GRENDY="2.02649" GRFOCALX="0" GRFOCALY="2.02649" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="794.337" YPOS="283.862" OwnPage="0" ItemID="109097554" PTYPE="6" WIDTH="4.42067" HEIGHT="3.96244" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.93438 0.0188459 C2.14864 0 0 3.17927 1.78299 3.96244 C3.20614 3.72735 4.42067 0.256424 2.93438 0.0188459 Z" copath="M2.93438 0.0188459 C2.14864 0 0 3.17927 1.78299 3.96244 C3.20614 3.72735 4.42067 0.256424 2.93438 0.0188459 Z" gXpos="794.337" gYpos="283.862" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="1.98122" GRENDX="4.42067" GRENDY="1.98122" GRFOCALX="0" GRFOCALY="1.98122" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="791.607" YPOS="296.416" OwnPage="0" ItemID="109064322" PTYPE="6" WIDTH="4.40864" HEIGHT="3.96351" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.92137 0.016485 C2.13557 0 0 3.18572 1.7862 3.96351 C3.20836 3.72415 4.40864 0.249591 2.92137 0.016485 Z" copath="M2.92137 0.016485 C2.13557 0 0 3.18572 1.7862 3.96351 C3.20836 3.72415 4.40864 0.249591 2.92137 0.016485 Z" gXpos="791.607" gYpos="296.416" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="1.98175" GRENDX="4.40864" GRENDY="1.98175" GRFOCALX="0" GRFOCALY="1.98175" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="847.682" YPOS="282.749" OwnPage="0" ItemID="109052962" PTYPE="6" WIDTH="3.7036" HEIGHT="4.70534" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.597868 0.676425 C0 1.11324 0.895117 4.70534 2.83157 4.26358 C3.7036 3.27262 1.88691 0 0.597868 0.676425 Z" copath="M0.597868 0.676425 C0 1.11324 0.895117 4.70534 2.83157 4.26358 C3.7036 3.27262 1.88691 0 0.597868 0.676425 Z" gXpos="847.682" gYpos="282.749" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.35267" GRENDX="3.7036" GRENDY="2.35267" GRFOCALX="0" GRFOCALY="2.35267" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="800.928" YPOS="312.823" OwnPage="0" ItemID="109154626" PTYPE="6" WIDTH="3.89378" HEIGHT="4.0433" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" copath="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" gXpos="800.928" gYpos="312.823" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02165" GRENDX="3.89378" GRENDY="2.02165" GRFOCALX="0" GRFOCALY="2.02165" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="806.13" YPOS="319.896" OwnPage="0" ItemID="109174962" PTYPE="6" WIDTH="3.89378" HEIGHT="4.0433" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" copath="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" gXpos="806.13" gYpos="319.896" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02165" GRENDX="3.89378" GRENDY="2.02165" GRFOCALX="0" GRFOCALY="2.02165" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="807.662" YPOS="300.773" OwnPage="0" ItemID="109163330" PTYPE="6" WIDTH="3.89378" HEIGHT="4.0433" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" copath="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" gXpos="807.662" gYpos="300.773" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02165" GRENDX="3.89378" GRENDY="2.02165" GRFOCALX="0" GRFOCALY="2.02165" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="803.224" YPOS="285.973" OwnPage="0" ItemID="109130146" PTYPE="6" WIDTH="3.89378" HEIGHT="4.0433" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" copath="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" gXpos="803.224" gYpos="285.973" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02165" GRENDX="3.89378" GRENDY="2.02165" GRFOCALX="0" GRFOCALY="2.02165" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="807.521" YPOS="273.878" OwnPage="0" ItemID="109141410" PTYPE="6" WIDTH="5.54007" HEIGHT="3.67415" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M4.3975 0.355971 C3.73047 0 0 1.815 1.0767 3.26178 C2.4437 3.67415 5.54007 1.2036 4.3975 0.355971 Z" copath="M4.3975 0.355971 C3.73047 0 0 1.815 1.0767 3.26178 C2.4437 3.67415 5.54007 1.2036 4.3975 0.355971 Z" gXpos="807.521" gYpos="273.878" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="1.83708" GRENDX="5.54007" GRENDY="1.83708" GRFOCALX="0" GRFOCALY="1.83708" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="799.245" YPOS="298.547" OwnPage="0" ItemID="109220418" PTYPE="6" WIDTH="3.89378" HEIGHT="4.0433" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" copath="M2.38317 0 C1.60219 0.0763808 0 3.48365 1.8944 4.0433 C3.26444 3.63841 3.89378 0.0554177 2.38317 0 Z" gXpos="799.245" gYpos="298.547" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.02165" GRENDX="3.89378" GRENDY="2.02165" GRFOCALX="0" GRFOCALY="2.02165" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="832.22" YPOS="299.125" OwnPage="0" ItemID="109142770" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="832.22" gYpos="299.125" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="828.243" YPOS="309.734" OwnPage="0" ItemID="109240626" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="828.243" gYpos="309.734" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="838.077" YPOS="287.993" OwnPage="0" ItemID="109197010" PTYPE="6" WIDTH="3.23143" HEIGHT="4.2553" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" copath="M1.49143 0.212765 C0.745714 0.42553 0 4.04255 1.98857 4.2553 C3.23143 3.61701 2.98286 0 1.49143 0.212765 Z" gXpos="838.077" gYpos="287.993" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.12765" GRENDX="3.23143" GRENDY="2.12765" GRFOCALX="0" GRFOCALY="2.12765" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="815.143" YPOS="285.912" OwnPage="0" ItemID="109200258" PTYPE="6" WIDTH="3.53934" HEIGHT="4.11888" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M2.02868 0.0546602 C1.25812 0.18757 0 3.69906 1.9431 4.11888 C3.268 3.6158 3.53934 0 2.02868 0.0546602 Z" copath="M2.02868 0.0546602 C1.25812 0.18757 0 3.69906 1.9431 4.11888 C3.268 3.6158 3.53934 0 2.02868 0.0546602 Z" gXpos="815.143" gYpos="285.912" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.05944" GRENDX="3.53934" GRENDY="2.05944" GRFOCALX="0" GRFOCALY="2.05944" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="864.062" YPOS="292.232" OwnPage="0" ItemID="109287202" PTYPE="6" WIDTH="3.69776" HEIGHT="4.70338" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.599041 0.67388 C0 1.10952 0.885442 4.70338 2.82307 4.26543 C3.69776 3.27619 1.8899 0 0.599041 0.67388 Z" copath="M0.599041 0.67388 C0 1.10952 0.885442 4.70338 2.82307 4.26543 C3.69776 3.27619 1.8899 0 0.599041 0.67388 Z" gXpos="864.062" gYpos="292.232" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.35169" GRENDX="3.69776" GRENDY="2.35169" GRFOCALX="0" GRFOCALY="2.35169" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="857.942" YPOS="302.709" OwnPage="0" ItemID="109207746" PTYPE="6" WIDTH="3.69776" HEIGHT="4.70338" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.599041 0.67388 C0 1.10952 0.885442 4.70338 2.82307 4.26543 C3.69776 3.27619 1.8899 0 0.599041 0.67388 Z" copath="M0.599041 0.67388 C0 1.10952 0.885442 4.70338 2.82307 4.26543 C3.69776 3.27619 1.8899 0 0.599041 0.67388 Z" gXpos="857.942" gYpos="302.709" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.35169" GRENDX="3.69776" GRENDY="2.35169" GRFOCALX="0" GRFOCALY="2.35169" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="871.101" YPOS="286.862" OwnPage="0" ItemID="109307282" PTYPE="6" WIDTH="3.69776" HEIGHT="4.70338" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.599041 0.67388 C0 1.10952 0.885442 4.70338 2.82307 4.26543 C3.69776 3.27619 1.8899 0 0.599041 0.67388 Z" copath="M0.599041 0.67388 C0 1.10952 0.885442 4.70338 2.82307 4.26543 C3.69776 3.27619 1.8899 0 0.599041 0.67388 Z" gXpos="871.101" gYpos="286.862" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.35169" GRENDX="3.69776" GRENDY="2.35169" GRFOCALX="0" GRFOCALY="2.35169" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="869.275" YPOS="304.217" OwnPage="0" ItemID="109263218" PTYPE="6" WIDTH="3.16911" HEIGHT="4.46499" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M0.682432 0.459158 C0 0.79305 0.0980783 4.46499 2.09678 4.33958 C3.16911 3.50492 2.09608 0 0.682432 0.459158 Z" copath="M0.682432 0.459158 C0 0.79305 0.0980783 4.46499 2.09678 4.33958 C3.16911 3.50492 2.09608 0 0.682432 0.459158 Z" gXpos="869.275" gYpos="304.217" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.2325" GRENDX="3.16911" GRENDY="2.2325" GRFOCALX="0" GRFOCALY="2.2325" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="855.691" YPOS="324.335" OwnPage="0" ItemID="109268338" PTYPE="6" WIDTH="3.17539" HEIGHT="4.31354" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.346387" PLINEART="1" LOCK="1" TransValue="0.75" path="M1.09333 0.32389 C0.372282 0.591809 0 4.25086 2.00271 4.31354 C3.17539 3.58441 2.55722 0 1.09333 0.32389 Z" copath="M1.09333 0.32389 C0.372282 0.591809 0 4.25086 2.00271 4.31354 C3.17539 3.58441 2.55722 0 1.09333 0.32389 Z" gXpos="855.691" gYpos="324.335" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="2.15677" GRENDX="3.17539" GRENDY="2.15677" GRFOCALX="0" GRFOCALY="2.15677" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="Yellow1" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffa617" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="807.651" YPOS="272.017" OwnPage="0" ItemID="109248706" PTYPE="6" WIDTH="18.2086" HEIGHT="16.1096" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.346387" PCOLOR="FromSVG#00cc00" PLINEART="1" LOCK="1" TransValue="0.5" path="M0 16.1096 C3.97836 6.54862 18.2086 0.130972 15.4543 0 C10.0989 3.01237 0.306027 7.5964 0 16.1096 Z" copath="M0 16.1096 C3.97836 6.54862 18.2086 0.130972 15.4543 0 C10.0989 3.01237 0.306027 7.5964 0 16.1096 Z" gXpos="807.651" gYpos="272.017" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="800.36" YPOS="267.629" OwnPage="0" ItemID="109269490" PTYPE="6" WIDTH="20.3508" HEIGHT="4.58404" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.346387" PCOLOR="FromSVG#00cc00" PLINEART="1" LOCK="1" TransValue="0.5" path="M0 1.83361 C8.41572 4.58404 12.0881 0.392918 20.3508 0.654865 C17.9026 0 9.9459 0.916805 0 1.83361 Z" copath="M0 1.83361 C8.41572 4.58404 12.0881 0.392918 20.3508 0.654865 C17.9026 0 9.9459 0.916805 0 1.83361 Z" gXpos="800.36" gYpos="267.629" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="827.137" YPOS="272.213" OwnPage="0" ItemID="109379154" PTYPE="6" WIDTH="5.04944" HEIGHT="16.1096" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.346387" PCOLOR="FromSVG#00cc00" PLINEART="1" LOCK="1" TransValue="0.5" path="M3.06027 16.1096 C2.44821 6.15571 5.04944 0.130972 2.29521 0 C0 4.32208 2.29521 13.7521 3.06027 16.1096 Z" copath="M3.06027 16.1096 C2.44821 6.15571 5.04944 0.130972 2.29521 0 C0 4.32208 2.29521 13.7521 3.06027 16.1096 Z" gXpos="827.137" gYpos="272.213" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="833.105" YPOS="257.282" OwnPage="0" ItemID="109330418" PTYPE="6" WIDTH="6.27356" HEIGHT="15.9786" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.346387" PCOLOR="FromSVG#00cc00" PLINEART="1" LOCK="1" TransValue="0.5" path="M0 12.3114 C2.29521 15.9786 6.27356 2.09555 5.04946 0 C5.20247 1.83361 2.44821 11.3946 0 12.3114 Z" copath="M0 12.3114 C2.29521 15.9786 6.27356 2.09555 5.04946 0 C5.20247 1.83361 2.44821 11.3946 0 12.3114 Z" gXpos="833.105" gYpos="257.282" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="851.62" YPOS="266.319" OwnPage="0" ItemID="109316770" PTYPE="6" WIDTH="14.6893" HEIGHT="3.7982" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.346387" PCOLOR="FromSVG#00cc00" PLINEART="1" LOCK="1" TransValue="0.5" path="M0 2.75042 C5.35547 3.7982 8.72175 2.22653 14.6893 0 C12.2411 1.57166 4.13138 2.75042 0 2.75042 Z" copath="M0 2.75042 C5.35547 3.7982 8.72175 2.22653 14.6893 0 C12.2411 1.57166 4.13138 2.75042 0 2.75042 Z" gXpos="851.62" gYpos="266.319" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="838.001" YPOS="274.047" OwnPage="0" ItemID="109420050" PTYPE="6" WIDTH="13.9243" HEIGHT="9.82289" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.346387" PCOLOR="FromSVG#00cc00" PLINEART="1" LOCK="1" TransValue="0.5" path="M13.9243 9.82289 C7.95672 5.36987 2.14219 0 0 0 C2.29521 3.14335 7.19165 6.41765 13.9243 9.82289 Z" copath="M13.9243 9.82289 C7.95672 5.36987 2.14219 0 0 0 C2.29521 3.14335 7.19165 6.41765 13.9243 9.82289 Z" gXpos="838.001" gYpos="274.047" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="848.712" YPOS="273.916" OwnPage="0" ItemID="109336290" PTYPE="6" WIDTH="16.3725" HEIGHT="6.28667" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.346387" PCOLOR="FromSVG#00cc00" PLINEART="1" LOCK="1" TransValue="0.5" path="M16.3725 6.15571 C8.56877 5.50083 2.90725 0.785836 0 0 C4.74342 3.01237 6.88561 6.28667 16.3725 6.15571 Z" copath="M16.3725 6.15571 C8.56877 5.50083 2.90725 0.785836 0 0 C4.74342 3.01237 6.88561 6.28667 16.3725 6.15571 Z" gXpos="848.712" gYpos="273.916" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="806.787" YPOS="261.342" OwnPage="0" ItemID="109416866" PTYPE="6" WIDTH="14.8423" HEIGHT="4.71502" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.346387" PCOLOR="FromSVG#00cc00" PLINEART="1" LOCK="1" TransValue="0.5" path="M0 1.17875 C3.97836 0.916814 12.3941 3.14335 13.6182 4.71502 C14.8423 2.35751 2.90725 0 0 1.17875 Z" copath="M0 1.17875 C3.97836 0.916814 12.3941 3.14335 13.6182 4.71502 C14.8423 2.35751 2.90725 0 0 1.17875 Z" gXpos="806.787" gYpos="261.342" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="628" YPOS="31.2951" OwnPage="0" ItemID="109394322" PTYPE="6" WIDTH="65.3042744656917" HEIGHT="568.033" FRTYPE="1" CLIPEDIT="0" PWIDTH="1" PCOLOR="DarkOliveGreen3" PCOLOR2="Ei väriä" PLINEART="1" TEXTFLOWMODE="1" path="M65.3043 284.017 C65.3043 440.88 50.6861 568.033 32.6521 568.033 C14.6189 568.033 0 440.88 0 284.017 C0 127.159 14.6189 0 32.6521 0 C50.6861 0 65.3043 127.159 65.3043 284.017 Z" copath="M65.3043 284.017 C65.3043 440.88 50.6861 568.033 32.6521 568.033 C14.6189 568.033 0 440.88 0 284.017 C0 127.159 14.6189 0 32.6521 0 C50.6861 0 65.3043 127.159 65.3043 284.017 Z" gXpos="628" gYpos="31.2951" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="382" YPOS="65" OwnPage="0" ItemID="109408738" PTYPE="2" WIDTH="221" HEIGHT="206.639" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.81" LOCALSCY="0.81" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../app/share/scribus/templates/br1/map.jpg" EMBEDDED="0" LOCK="1" path="M0 0 L221 0 L221 206.639 L0 206.639 L0 0 Z" copath="M0 0 L221 0 L221 206.639 L0 206.639 L0 0 Z" gXpos="382" gYpos="65" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="382" YPOS="273" OwnPage="0" ItemID="109489346" PTYPE="4" WIDTH="222" HEIGHT="37" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L222 0 L222 37 L0 37 L0 0 Z" copath="M0 0 L222 0 L222 37 L0 37 L0 0 Z" gXpos="382" gYpos="273" gWidth="0" gHeight="0" ALIGN="9" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="9" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="You will find us here. Get a map that shows your place in to the above pi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="ture frame."/>
+                <trail PARENT="ImageCaption"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="129" YPOS="56.2131" OwnPage="0" ItemID="109453122" PTYPE="4" WIDTH="235" HEIGHT="27.8689" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L235 0 L235 27.8689 L0 27.8689 L0 0 Z" copath="M0 0 L235 0 L235 27.8689 L0 27.8689 L0 0 Z" gXpos="129" gYpos="56.2131" gWidth="0" gHeight="0" ALIGN="6" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="6" LINESPMode="0" LINESP="12" FONT="URW Bookman L Demi Bold Italic" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Back Page Header"/>
+                <trail PARENT="SubHeader"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="131" YPOS="105.2459" OwnPage="0" ItemID="109498354" PTYPE="4" WIDTH="210.984" HEIGHT="451.967" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L210.984 0 L210.984 451.967 L0 451.967 L0 0 Z" copath="M0 0 L210.984 0 L210.984 451.967 L0 451.967 L0 0 Z" gXpos="131" gYpos="105.2459" gWidth="0" gHeight="0" ALIGN="10" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="10" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="This is a good place to i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="duce your bus"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="ness in a ge"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="al level."/>
+                <para PARENT="BodyTextLoose"/>
+                <para PARENT="BodyTextLoose"/>
+                <ITEXT CH="Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Ut a sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quet pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger quis eros ut erat posuere dictum. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger orci. Fusce vulp"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="tate l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus at ipsum. Quisque in libero nec mi laoreet v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam eros pede, sce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="isque quis, tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique cursus, pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="va"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lis, velit. Nam co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="d"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="mentum. Nulla ut mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing, mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is non dictum al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam, a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="cu risus dapibus diam, nec so"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="citu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="d­"/>
+                <ITEXT CH="in quam erat quis ligula. Aenean massa nulla, v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat eu, a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="san et, fringilla eget, odio. Nulla pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at porta justo. Nulla vitae tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is. Praesent l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus."/>
+                <trail PARENT="BodyTextLoose"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="391" YPOS="1099.157" OwnPage="1" ItemID="109795122" PTYPE="4" WIDTH="257.361" HEIGHT="126.611" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.743356" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257.361 0 L257.361 126.611 L0 126.611 L0 0 Z" copath="M0 0 L257.361 0 L257.361 126.611 L0 126.611 L0 0 Z" gXpos="391" gYpos="1099.157" gWidth="0" gHeight="0" ALIGN="8" LAYER="0" NEXTITEM="115920690" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="8" LINESPMode="0" LINESP="8.88" FONT="Arial Regular" FONTSIZE="7.4" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Ut a sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quet pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger quis eros ut erat posuere dictum. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger orci. Fusce vulp"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="tate l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus at ipsum. Quisque in libero nec mi laoreet v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam eros pede, sce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="isque quis, tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique cursus, pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="va"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lis, velit. Nam co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="d"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="mentum. Nulla ut mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing, mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is non dictum al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam, a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="cu risus dapibus diam, nec so"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="citu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="d­"/>
+                <ITEXT CH="in quam erat quis ligula. Aenean massa nulla, v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat eu, a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="san et, fringilla eget, odio. Nulla pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at porta justo. Nulla vitae tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is. Praesent l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus."/>
+                <para PARENT="BodyTextLeft"/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum ante ipsum primis in faucibus orci lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="tus et u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices posuere c"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="bi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="ia Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="ae; Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="cies l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus eu dui. Duis viverra risus et eros. Aenean odio do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or, tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique quis, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="modo id."/>
+                <para PARENT="BodyTextLeft"/>
+                <para PARENT="BodyTextLeft"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="391" YPOS="1065.276" OwnPage="1" ItemID="110786050" PTYPE="4" WIDTH="271" HEIGHT="34.8197" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.743356" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L271 0 L271 34.8197 L0 34.8197 L0 0 Z" copath="M0 0 L271 0 L271 34.8197 L0 34.8197 L0 0 Z" gXpos="391" gYpos="1065.276" gWidth="0" gHeight="0" ALIGN="6" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="6" LINESPMode="0" LINESP="8.88" FONT="Arial Regular" FONTSIZE="7.4" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Sub Header 2"/>
+                <trail PARENT="SubHeader"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="391" YPOS="728.276" OwnPage="1" ItemID="109968402" PTYPE="4" WIDTH="257.361" HEIGHT="328.639" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L257.361 0 L257.361 328.639 L0 328.639 L0 0 Z" copath="M0 0 L257.361 0 L257.361 328.639 L0 328.639 L0 0 Z" gXpos="391" gYpos="728.276" gWidth="0" gHeight="0" ALIGN="8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="8" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Ut a sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quet pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger quis eros ut erat posuere dictum. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger orci. Fusce vulp"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="tate l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus at ipsum. Quisque in libero nec mi laoreet v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam eros pede, sce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="isque quis, tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique cursus, pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="va"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lis, velit. Nam co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="d"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="mentum. Nulla ut mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing, mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is non dictum al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam, a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="cu risus dapibus diam, nec so"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="citu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="d­"/>
+                <ITEXT CH="in quam erat quis ligula. Aenean massa nulla, v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat eu, a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="san et."/>
+                <para PARENT="BodyTextLeft"/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="fringilla eget, odio. Nulla pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at porta justo. Nulla vitae tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is. Praesent l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus."/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum ante ipsum primis in faucibus orci lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="tus et u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices posuere c"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="bi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="ia Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="ae; "/>
+                <trail PARENT="BodyTextLeft"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="391" YPOS="694.276" OwnPage="1" ItemID="110410258" PTYPE="4" WIDTH="271" HEIGHT="32.3115" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L271 0 L271 32.3115 L0 32.3115 L0 0 Z" copath="M0 0 L271 0 L271 32.3115 L0 32.3115 L0 0 Z" gXpos="391" gYpos="694.276" gWidth="0" gHeight="0" ALIGN="6" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="6" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Sub Header 1"/>
+                <trail PARENT="SubHeader"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="116" YPOS="830.686" OwnPage="1" ItemID="111407026" PTYPE="4" WIDTH="257" HEIGHT="294.262" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1.00063" TEXTRA="1.00063" BEXTRA="1.00063" REXTRA="3.83528" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257 0 L257 294.262 L0 294.262 L0 0 Z" copath="M0 0 L257 0 L257 294.262 L0 294.262 L0 0 Z" gXpos="116" gYpos="830.686" gWidth="0" gHeight="0" ALIGN="8" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="8" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Ut a sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quet pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger quis eros ut erat posuere dictum. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger orci. Fusce vulp"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="tate l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus at ipsum. Quisque in libero nec mi laoreet v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam eros pede, sce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="isque quis, tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique cursus, pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="va"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lis, velit. Nam co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="d"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="mentum. Nulla ut mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing, mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is non dictum al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam, a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="cu risus dapibus diam, nec so"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="citu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="d­"/>
+                <ITEXT CH="in quam erat quis ligula. Aenean massa nulla."/>
+                <para PARENT="BodyTextLeft"/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH=" v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat eu, a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="san et, fringilla eget, odio. Nulla pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at porta justo. Nulla vitae tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is. Praesent l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus."/>
+                <para PARENT="BodyTextLeft"/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum ante ipsum primis in faucibus orci lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="tus et u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices posuere c"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="bi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="ia Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="ae; Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="cies l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus eu dui. Duis viverra risus et eros. Aenean odio do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or, tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique quis, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="modo id, posuere sit amet, dui. Pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="len"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="esque velit. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam erat v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat. Duis sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis nibh sed justo. Sed u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices nisl sed pede. Sed te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="por lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em in leo. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger gravida ti"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cidunt nunc. Vivamus ut quam vel ligula tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="d"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="mentum. Proin f"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cili"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="is. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="ia mi. Donec sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="tus dui. Ma"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="as quam ante, ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum auc"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="or, bla"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­d­"/>
+                <ITEXT CH="it in, iaculis in, velit. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam at ligula. Nam a te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam eu nulla at tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is vulp"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="tate hendre"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="it. Proin at diam. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="mod."/>
+                <para PARENT="BodyTextLeft"/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="len"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="esque ha"/>
+                <ITEXT FEATURES="inherit shyphen" CH="b­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ant morbi tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique senec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="us et netus et malesuada fames ac tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is ege"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="tas. Quisque vel erat eget diam co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer iaculis. Cras ante velit, su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="it et, porta te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="pus, di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim quis, magna. Vivamus viverra, tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is nec rho"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cus u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="cies, diam tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is eleifend nisl, a eleifend ante fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="is ac sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger bibendum. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse in mi non neque bibendum co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="va"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lis. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse p"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="tenti. Sed sit amet pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us at fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="is adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam. Vivamus et nisl sit amet mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quet m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie. I"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="teger tortor massa, al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam a, l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="ia nonummy, sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis nec, eros. Nunc non mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is id eros ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="enatis adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing. Cras et lec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="us ut nisl phar"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="tra o"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­n­"/>
+                <ITEXT CH="are. Proin leo risus, el"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="mentum eget, u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices vitae, m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie sed, erat. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur et lec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="us in te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus ege"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="tas hendre"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="it. Sed dapibus ipsum. Quisque sit amet ligula. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse odio do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or, se"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="per id, fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="giat quis, sodales id, mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur id ligula ac libero malesuada phar"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="tra."/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse p"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="tenti. Cras ut mi sit amet quam co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sequat co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sequat. Aenean ut lec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="us. Cum s"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="ciis natoque pen"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="bus et ma"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­"/>
+                <ITEXT CH="nis dis pa"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="ent montes, na"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cetur r"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="diculus mus. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse vel sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en. Nu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lam non tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is. Pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="len"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="esque el"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="mentum phar"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="tra ligula. In rho"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cus. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam vel e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="im co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sequat sem al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quet hendre"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="it. Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Nam fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="is."/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Cum s"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="ciis natoque pen"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="bus et ma"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­"/>
+                <ITEXT CH="nis dis pa"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="ent montes, na"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cetur r"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="diculus mus. Ma"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="as tortor metus, pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="len"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="esque nec, vehicula vitae, su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="it sed, quam. Aenean sce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="isque sodales tortor. Sed pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is est, bibendum tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique, por"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ti"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="or te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="por, pulvi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="ar vitae, tortor. Nu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lam malesuada dapibus orci. Vivamus al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quet te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="pus velit. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="dum posuere risus. Duis ege"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="tas, ipsum sit amet m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie ti"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cidunt, ligula libero pr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="tium risus, non faucibus te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="is ma"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en. Ut eu velit at massa auc"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="or ma"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis. Nam tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique velit quis nisl."/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Vivamus neque velit, o"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­n­"/>
+                <ITEXT CH="are vitae, te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="por vel, u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices et, wisi. Cras pede. Phase"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus nunc tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is, cursus non, rho"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cus vitae, so"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="citu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="d­"/>
+                <ITEXT CH="in vel, velit. Vivamus su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="it lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em sed fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="is. Ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is. Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Praesent o"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­n­"/>
+                <ITEXT CH="are nulla nec justo. Sed nec risus ac risus fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="mentum ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum. Etiam viverra viverra sem. Etiam m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie mi quis metus hendre"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="it tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="stique."/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Quisque lobortis e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="mod metus. Nam ante. Nulla fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="mentum, risus non pulvi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="ar por"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ti"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="or, e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="im pede ege"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="tas nibh, sit amet posuere metus tortor id e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="im. Donec at sem. Ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum in lec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="us ut diam l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="ia l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="ia. Ma"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="as sit amet nulla. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse vel do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or. Nunc hendre"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="it elit vitae quam. In nonummy velit nec lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em. Etiam rho"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cus fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="is a tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam vel nulla. Ut nonummy, nisl non sodales iaculis, mi te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus viverra diam, eget e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="mod dui tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is at mi. Class aptent t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="citi s"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="ciosqu ad li"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ora torquent per con"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="bia no"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="tra, per i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="tos h"/>
+                <ITEXT FEATURES="inherit shyphen" CH="y­"/>
+                <ITEXT CH="me"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="aeos. Ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum nec quam ac lec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="us sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis ti"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cidunt."/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Nulla f"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="isi. Nam var"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="us ante di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="cu. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse m"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lestie di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim neque. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse leo ipsum, rutrum cursus, malesuada id, dapibus sed, urna. Fusce so"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="citu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="d­"/>
+                <ITEXT CH="in laoreet diam. Mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is eu quam eget nulla fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="mentum adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing. In hac ha"/>
+                <ITEXT FEATURES="inherit shyphen" CH="b­i­"/>
+                <ITEXT CH="tasse platea dictumst. Morbi ut odio vitae eros lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="tus lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="tus. Ut diam. Phase"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus ulla"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="cor"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="er a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="cu vitae wisi. Pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="len"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="esque urna odio, var"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="us eget, di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim quis, vehicula pl"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="at, nunc. Ut nec metus quis nulla posuere eleifend."/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse nibh. Nunc vulp"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="tate leo id urna. Donec dictum. Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse dictum, magna co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer hendre"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="it v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat, sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="is faucibus justo, ac dictum l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus pede in metus. Nam co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="modo. Sed co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sequat, leo pr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="tium sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis congue, ante nunc laoreet nisl, ac al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam risus te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="modo elit. Cras at elit. Pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="len"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="esque su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="it erat vitae mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is. Sed iaculis eros vitae mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is. Ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum ante ipsum primis in faucibus orci lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="tus et u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices posuere c"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="bi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="ia Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="ae; Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse id ante et elit a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="san se"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="per. Sed et nibh eget pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us sce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="isque v"/>
+                <ITEXT FEATURES="inherit shyphen" CH="o­"/>
+                <ITEXT CH="lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="pat. Sed mi. Proin te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus fe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="is, ti"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cidunt eget, dictum et, adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing et, urna. Cras a"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="san diam sed tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is. Etiam so"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="citu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="d­"/>
+                <ITEXT CH="in l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus."/>
+                <para PARENT="BodyTextLeft"/>
+                <ITEXT CH="Nam iaculis bla"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­d­"/>
+                <ITEXT CH="it pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us. Mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is odio nibh, hendre"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="it id, cursus vel, sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis a, do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or. Nu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lam tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="cus, u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="trices vel, sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis vitae, dapibus vel, elit. Su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="disse auc"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="or, sap"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="en et su"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="it te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="por, tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="im co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sequat sem, eu dictum nunc lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em at massa. Pe"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="len"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="esque sce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="isque pu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="us. Etiam sed e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="im. Ma"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="ce"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="as sed tortor id tur"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="is co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sequat co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sequat. Cu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="abi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="ur fringilla. Sed risus wisi, dictum a, sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis nec, lu"/>
+                <ITEXT FEATURES="inherit shyphen" CH="c­"/>
+                <ITEXT CH="tus ac, neque. Lo"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="em ipsum do"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="or sit amet, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing elit. Sed nibh neque, al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam ut, sagi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="tis id, gravida et, est. Aenean co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="sec"/>
+                <ITEXT FEATURES="inherit shyphen" CH="t­"/>
+                <ITEXT CH="etuer pr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="e­"/>
+                <ITEXT CH="tium e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="im. Aenean te"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="lus quam, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="d"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="mentum a, adi"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="cing et, l"/>
+                <ITEXT FEATURES="inherit shyphen" CH="a­"/>
+                <ITEXT CH="ci"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="ia vel, ante. Praesent faucibus di"/>
+                <ITEXT FEATURES="inherit shyphen" CH="g­n­"/>
+                <ITEXT CH="i"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="sim e"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="im. Al"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="quam ti"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="cidunt. Mau"/>
+                <ITEXT FEATURES="inherit shyphen" CH="r­"/>
+                <ITEXT CH="is leo ante, co"/>
+                <ITEXT FEATURES="inherit shyphen" CH="n­"/>
+                <ITEXT CH="d"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="mentum eget, ve"/>
+                <ITEXT FEATURES="inherit shyphen" CH="s­"/>
+                <ITEXT CH="t"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="b"/>
+                <ITEXT FEATURES="inherit shyphen" CH="u­"/>
+                <ITEXT CH="lum sit amet, fringilla eget, diam. Nam u"/>
+                <ITEXT FEATURES="inherit shyphen" CH="l­"/>
+                <ITEXT CH="tr"/>
+                <ITEXT FEATURES="inherit shyphen" CH="i­"/>
+                <ITEXT CH="cies ulla"/>
+                <ITEXT FEATURES="inherit shyphen" CH="m­"/>
+                <ITEXT CH="cor"/>
+                <ITEXT FEATURES="inherit shyphen" CH="p­"/>
+                <ITEXT CH="er nibh. Etiam neque. Ut posuere laoreet pede."/>
+                <trail PARENT="BodyTextLeft"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="245.082" YPOS="848.227" OwnPage="1" ItemID="110998770" PTYPE="6" WIDTH="128.918" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" GRTYP="6" PWIDTH="1" PCOLOR="Ei väriä" PCOLOR2="Ei väriä" PLINEART="1" TEXTFLOWMODE="1" path="M0 0 L128.918 0 L128.918 100 L0 100 L0 0 Z" copath="M0 0 L128.918 0 L128.918 100 L0 100 L0 0 Z" gXpos="245.082" gYpos="848.227" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="50" GRENDX="128.918" GRENDY="50" GRFOCALX="0" GRFOCALY="50" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="White" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="253" YPOS="895.276" OwnPage="1" ItemID="110991186" PTYPE="4" WIDTH="116.672" HEIGHT="46.0656" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.672 0 L116.672 46.0656 L0 46.0656 L0 0 Z" copath="M0 0 L116.672 0 L116.672 46.0656 L0 46.0656 L0 0 Z" gXpos="253" gYpos="895.276" gWidth="0" gHeight="0" ALIGN="9" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="9" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Caption for the image or graphic"/>
+                <trail PARENT="ImageCaption"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="115" YPOS="801.342" OwnPage="1" ItemID="115146530" PTYPE="4" WIDTH="257" HEIGHT="31.9672" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257 0 L257 31.9672 L0 31.9672 L0 0 Z" copath="M0 0 L257 0 L257 31.9672 L0 31.9672 L0 0 Z" gXpos="115" gYpos="801.342" gWidth="0" gHeight="0" ALIGN="5" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="5" LINESPMode="0" LINESP="12" FONT="URW Bookman L Demi Bold Italic" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Arial Regular" CH="Main Header"/>
+                <trail PARENT="Header"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="325.5" YPOS="668.3908" OwnPage="1" ItemID="115711266" PTYPE="6" WIDTH="112" HEIGHT="567.213" FRTYPE="1" CLIPEDIT="0" PWIDTH="1" PCOLOR="DarkOliveGreen3" PCOLOR2="Ei väriä" PLINEART="1" TEXTFLOWMODE="1" LOCK="1" path="M112 283.607 C112 440.244 86.9291 567.213 56 567.213 C25.0721 567.213 0 440.244 0 283.607 C0 126.975 25.0721 0 56 0 C86.9291 0 112 126.975 112 283.607 Z" copath="M112 283.607 C112 440.244 86.9291 567.213 56 567.213 C25.0721 567.213 0 440.244 0 283.607 C0 126.975 25.0721 0 56 0 C86.9291 0 112 126.975 112 283.607 Z" gXpos="325.5" gYpos="668.3908" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="249" YPOS="826.276" OwnPage="1" ItemID="115728770" PTYPE="6" WIDTH="94" HEIGHT="80" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.27673" PCOLOR="FromSVG#ffe200" PCOLOR2="Grey0" PLINEART="1" path="M74.6849 6.07595 C70.8219 2.53165 81.1233 0 82.411 1.26582 C84.4712 2.27848 80.6082 3.03797 80.8658 4.81013 C81.1233 6.58228 80.8658 15.9494 82.926 16.4557 C84.9863 16.962 87.5616 18.7342 87.5616 21.2658 C94 36.962 68.7616 80 9.0137 58.481 C7.98356 57.7215 2.31781 51.3924 1.28767 49.8734 C0.772603 48.1013 0 43.7975 3.09041 42.2785 C29.6164 35.443 60.263 48.8608 74.1699 18.2278 C76.4877 12.9114 74.6849 6.07595 74.6849 6.07595 Z" copath="M74.6849 6.07595 C70.8219 2.53165 81.1233 0 82.411 1.26582 C84.4712 2.27848 80.6082 3.03797 80.8658 4.81013 C81.1233 6.58228 80.8658 15.9494 82.926 16.4557 C84.9863 16.962 87.5616 18.7342 87.5616 21.2658 C94 36.962 68.7616 80 9.0137 58.481 C7.98356 57.7215 2.31781 51.3924 1.28767 49.8734 C0.772603 48.1013 0 43.7975 3.09041 42.2785 C29.6164 35.443 60.263 48.8608 74.1699 18.2278 C76.4877 12.9114 74.6849 6.07595 74.6849 6.07595 Z" gXpos="249" gYpos="826.276" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="252.605" YPOS="845.263" OwnPage="1" ItemID="115732914" PTYPE="6" WIDTH="71.8521" HEIGHT="36.7089" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.204277" PLINEART="1" path="M0 26.8354 L0.515068 24.3038 C19.5726 17.2152 54.8548 32.1519 71.8521 0 C63.3534 22.7848 48.4164 36.7089 0 26.8354 Z" copath="M0 26.8354 L0.515068 24.3038 C19.5726 17.2152 54.8548 32.1519 71.8521 0 C63.3534 22.7848 48.4164 36.7089 0 26.8354 Z" gXpos="252.605" gYpos="845.263" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="18.3544" GRENDX="71.8521" GRENDY="18.3544" GRFOCALX="0" GRFOCALY="18.3544" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="White" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="323.15" YPOS="827.581" OwnPage="1" ItemID="111442770" PTYPE="6" WIDTH="9.97789" HEIGHT="4.34323" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.204277" PCOLOR="FromSVG#442400" PLINEART="1" path="M0 3.8369 C0.600496 0.272259 5.99795 0.176476 7.50861 0 C9.97789 0.317229 4.31792 4.34323 0 3.8369 Z" copath="M0 3.8369 C0.600496 0.272259 5.99795 0.176476 7.50861 0 C9.97789 0.317229 4.31792 4.34323 0 3.8369 Z" gXpos="323.15" gYpos="827.581" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="249.907" YPOS="868.991" OwnPage="1" ItemID="115702466" PTYPE="6" WIDTH="3.13699" HEIGHT="6.1745" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.204277" PCOLOR="FromSVG#442400" PLINEART="1" path="M0.384319 6.1745 C0.192161 2.45404 0 1.22702 2.18581 0 C3.13699 1.40257 2.95841 5.74578 0.384319 6.1745 Z" copath="M0.384319 6.1745 C0.192161 2.45404 0 1.22702 2.18581 0 C3.13699 1.40257 2.95841 5.74578 0.384319 6.1745 Z" gXpos="249.907" gYpos="868.991" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="271.148" YPOS="846.782" OwnPage="1" ItemID="115781714" PTYPE="6" WIDTH="67.7315" HEIGHT="51.8987" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.204277" PLINEART="1" TransValue="0.25" path="M0 40.7595 C45.0685 51.8987 60.364 23.9247 63.0959 17.2152 C67.7315 9.11392 64.8986 0 64.8986 0 C64.6411 27.3418 35.5397 49.3671 0 40.7595 Z" copath="M0 40.7595 C45.0685 51.8987 60.364 23.9247 63.0959 17.2152 C67.7315 9.11392 64.8986 0 64.8986 0 C64.6411 27.3418 35.5397 49.3671 0 40.7595 Z" gXpos="271.148" gYpos="846.782" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="25.9493" GRENDX="67.7315" GRENDY="25.9493" GRFOCALX="0" GRFOCALY="25.9493" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#5f0e00" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="549.18" YPOS="780.276" OwnPage="1" ItemID="115787730" PTYPE="6" WIDTH="112.82" HEIGHT="164.344" FRTYPE="0" CLIPEDIT="0" GRTYP="6" PWIDTH="1" PCOLOR="Ei väriä" PCOLOR2="Ei väriä" PLINEART="1" TEXTFLOWMODE="1" LOCK="1" path="M0 0 L112.82 0 L112.82 164.344 L0 164.344 L0 0 Z" copath="M0 0 L112.82 0 L112.82 164.344 L0 164.344 L0 0 Z" gXpos="549.18" gYpos="780.276" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="82.172" GRENDX="112.82" GRENDY="82.172" GRFOCALX="0" GRFOCALY="82.172" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="White" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="586.759" YPOS="828.748" OwnPage="1" ItemID="115743250" PTYPE="6" WIDTH="51.2409" HEIGHT="46.5716" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.34153" PCOLOR="FromSVG#ca0000" PCOLOR2="FromSVG#7f0000" PLINEART="1" LOCK="1" path="M23.0388 4.89843 C19.7563 2.14305 0 2.48567 4.32876 26.023 C9.1909 46.5716 35.5139 42.0977 41.0147 33.5553 C51.2409 17.3684 36.497 0 23.0388 4.89843 Z" copath="M23.0388 4.89843 C19.7563 2.14305 0 2.48567 4.32876 26.023 C9.1909 46.5716 35.5139 42.0977 41.0147 33.5553 C51.2409 17.3684 36.497 0 23.0388 4.89843 Z" gXpos="586.759" gYpos="828.748" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="550.456" YPOS="835.848" OwnPage="1" ItemID="115795650" PTYPE="6" WIDTH="54.9294" HEIGHT="44.4285" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.34153" PCOLOR="FromSVG#ca0000" PCOLOR2="FromSVG#7f0000" PLINEART="1" LOCK="1" path="M28.619 2.75536 C25.3365 0 0 0.342614 4.32876 23.8798 C9.1909 44.4285 33.3436 42.3537 40.4358 34.9013 C54.9294 19.3268 40.1077 0.306152 28.619 2.75536 Z" copath="M28.619 2.75536 C25.3365 0 0 0.342614 4.32876 23.8798 C9.1909 44.4285 33.3436 42.3537 40.4358 34.9013 C54.9294 19.3268 40.1077 0.306152 28.619 2.75536 Z" gXpos="550.456" gYpos="835.848" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="603.561" YPOS="836.096" OwnPage="1" ItemID="115761362" PTYPE="7" WIDTH="15.0993" HEIGHT="5.81688" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.34153" PCOLOR2="FromSVG#7f0000" PLINEART="1" LOCK="1" TransValue="0.25" path="M0.656493 0 C0 3.67383 8.53441 5.81688 15.0993 1.53076 " copath="M0.656493 0 C0 3.67383 8.53441 5.81688 15.0993 1.53076 L0.656493 0 Z" gXpos="603.561" gYpos="836.096" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="572.838" YPOS="841.97" OwnPage="1" ItemID="115849074" PTYPE="7" WIDTH="11.1604" HEIGHT="10.103" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.34153" PCOLOR2="FromSVG#7f0000" PLINEART="1" LOCK="1" TransValue="0.25" path="M0.656491 0 C0 3.67383 4.59544 10.103 11.1604 5.81688 " copath="M0.656491 0 C0 3.67383 4.59544 10.103 11.1604 5.81688 L0.656491 0 Z" gXpos="572.838" gYpos="841.97" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="550" YPOS="836.099" OwnPage="1" ItemID="115855122" PTYPE="6" WIDTH="31.5116" HEIGHT="27.2474" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.203" PLINEART="1" LOCK="1" TransValue="0.666667" path="M20.6795 8.2661 C8.53441 0 0 20.5122 9.51914 22.9613 C21.9925 27.2474 31.5116 16.226 20.6795 8.2661 Z" copath="M20.6795 8.2661 C8.53441 0 0 20.5122 9.51914 22.9613 C21.9925 27.2474 31.5116 16.226 20.6795 8.2661 Z" gXpos="550" gYpos="836.099" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="13.6237" GRENDX="31.5116" GRENDY="13.6237" GRFOCALX="0" GRFOCALY="13.6237" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="White" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="589.447" YPOS="823.85" OwnPage="1" ItemID="115835170" PTYPE="6" WIDTH="31.84" HEIGHT="48.9843" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.203" PLINEART="1" LOCK="1" TransValue="0.666667" path="M21.0077 11.0215 C3.93895 0 0 37.6566 9.51914 40.1059 C27.2444 48.9843 31.84 18.9814 21.0077 11.0215 Z" copath="M21.0077 11.0215 C3.93895 0 0 37.6566 9.51914 40.1059 C27.2444 48.9843 31.84 18.9814 21.0077 11.0215 Z" gXpos="589.447" gYpos="823.85" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="24.4921" GRENDX="31.84" GRENDY="24.4921" GRFOCALX="0" GRFOCALY="24.4921" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="White" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.211" YPOS="793.276" OwnPage="1" ItemID="115808610" PTYPE="6" WIDTH="46.8721" HEIGHT="55.7129" FRTYPE="3" CLIPEDIT="1" PWIDTH="2.03" PCOLOR="FromSVG#551900" PLINEART="1" PLINEJOIN="64" LOCK="1" path="M43.7378 0 C42.6407 0.269674 40.1382 1.90595 38.5619 4.58325 C18.4263 14.7044 10.2035 26.6687 5.13058 36.8553 C2.45868 42.2205 1.17943 46.8613 0.550162 50.0147 C0.235524 51.5912 0.083469 52.8004 0 53.5246 C0.211502 55.7129 2.16282 55.0142 2.03432 53.7511 C2.11497 53.0512 2.25807 51.9121 2.55889 50.4046 C3.16054 47.3897 4.38653 42.9166 6.96657 37.7359 C11.4752 28.6824 20.1605 17.4623 36.9185 7.98876 L37.507 8.66182 C31.329 17.1883 27.8506 29.7384 31.9734 45.3598 C32.8031 45.856 33.7176 45.6883 33.9565 44.8566 C29.7714 27.2738 35.3467 13.2499 42.2536 6.17713 C43.7798 5.24179 45.3059 4.38071 46.0408 4.27744 C46.8721 2.8123 46.6175 0.674184 43.7378 0 Z" copath="M43.7378 0 C42.6407 0.269674 40.1382 1.90595 38.5619 4.58325 C18.4263 14.7044 10.2035 26.6687 5.13058 36.8553 C2.45868 42.2205 1.17943 46.8613 0.550162 50.0147 C0.235524 51.5912 0.083469 52.8004 0 53.5246 C0.211502 55.7129 2.16282 55.0142 2.03432 53.7511 C2.11497 53.0512 2.25807 51.9121 2.55889 50.4046 C3.16054 47.3897 4.38653 42.9166 6.96657 37.7359 C11.4752 28.6824 20.1605 17.4623 36.9185 7.98876 L37.507 8.66182 C31.329 17.1883 27.8506 29.7384 31.9734 45.3598 C32.8031 45.856 33.7176 45.6883 33.9565 44.8566 C29.7714 27.2738 35.3467 13.2499 42.2536 6.17713 C43.7798 5.24179 45.3059 4.38071 46.0408 4.27744 C46.8721 2.8123 46.6175 0.674184 43.7378 0 Z" gXpos="577.211" gYpos="793.276" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="555" YPOS="881.276" OwnPage="1" ItemID="115856706" PTYPE="4" WIDTH="79" HEIGHT="45.3115" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L79 0 L79 45.3115 L0 45.3115 L0 0 Z" copath="M0 0 L79 0 L79 45.3115 L0 45.3115 L0 0 Z" gXpos="555" gYpos="881.276" gWidth="0" gHeight="0" ALIGN="9" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="9" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Caption for the image or graphic"/>
+                <trail PARENT="ImageCaption"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="686.066" YPOS="719.157" OwnPage="1" ItemID="115920690" PTYPE="4" WIDTH="241.803" HEIGHT="221.365" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.743356" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L241.803 0 L241.803 221.365 L0 221.365 L0 0 Z" copath="M0 0 L241.803 0 L241.803 221.365 L0 221.365 L0 0 Z" gXpos="686.066" gYpos="719.157" gWidth="0" gHeight="0" ALIGN="8" LAYER="0" NEXTITEM="-1" BACKITEM="109795122"/>
+        <PAGEOBJECT XPOS="801" YPOS="968.909" OwnPage="1" ItemID="115876402" PTYPE="6" WIDTH="110" HEIGHT="76.3667" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.481153" PCOLOR="FromSVG#54007f" PCOLOR2="FromSVG#420066" PLINEART="1" LOCK="1" path="M57.4686 11.9867 C35.9425 0 0 60.3199 51.7415 74.4332 C91.6336 76.3667 110 9.27998 66.5529 12.9533 C65.1705 13.34 60.2333 12.9533 57.4686 11.9867 Z" copath="M57.4686 11.9867 C35.9425 0 0 60.3199 51.7415 74.4332 C91.6336 76.3667 110 9.27998 66.5529 12.9533 C65.1705 13.34 60.2333 12.9533 57.4686 11.9867 Z" gXpos="801" gYpos="968.909" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="853.334" YPOS="958.276" OwnPage="1" ItemID="115902242" PTYPE="6" WIDTH="34.7577" HEIGHT="27.6466" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.481153" PCOLOR="FromSVG#004e00" PCOLOR2="FromSVG#003900" PLINEART="1" LOCK="1" path="M7.70197 22.04 C0 21.46 12.2442 27.6466 10.4668 23.78 C11.8492 12.9533 20.7361 6.76665 24.4883 6.37999 C34.7577 4.44667 27.8455 0 22.9085 4.83333 C20.7361 5.60665 13.0341 8.69999 7.70197 22.04 Z" copath="M7.70197 22.04 C0 21.46 12.2442 27.6466 10.4668 23.78 C11.8492 12.9533 20.7361 6.76665 24.4883 6.37999 C34.7577 4.44667 27.8455 0 22.9085 4.83333 C20.7361 5.60665 13.0341 8.69999 7.70197 22.04 Z" gXpos="853.334" gYpos="958.276" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="834.375" YPOS="981.863" OwnPage="1" ItemID="115922450" PTYPE="6" WIDTH="23.3034" HEIGHT="44.8533" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.192461" PCOLOR="Grey0" PLINEART="1" LOCK="1" TransValue="0.9" path="M3.75224 44.8533 C4.14721 43.1132 9.08437 7.34666 23.3034 3.09334 C21.921 0.773334 21.1311 0 18.1687 0.773334 C0.197487 10.2467 0 44.08 3.75224 44.8533 Z" copath="M3.75224 44.8533 C4.14721 43.1132 9.08437 7.34666 23.3034 3.09334 C21.921 0.773334 21.1311 0 18.1687 0.773334 C0.197487 10.2467 0 44.08 3.75224 44.8533 Z" gXpos="834.375" gYpos="981.863" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="859.061" YPOS="983.216" OwnPage="1" ItemID="115974658" PTYPE="6" WIDTH="51.7415" HEIGHT="55.1" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.192461" PCOLOR="FromSVG#ffffe8" PLINEART="1" LOCK="1" TransValue="0.9" path="M11.6517 0 C38.5099 15.8533 0 49.6866 8.49192 55.1 C51.7415 15.2733 22.1184 4.44667 11.6517 0 Z" copath="M11.6517 0 C38.5099 15.8533 0 49.6866 8.49192 55.1 C51.7415 15.2733 22.1184 4.44667 11.6517 0 Z" gXpos="859.061" gYpos="983.216" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="840.497" YPOS="991.143" OwnPage="1" ItemID="115987586" PTYPE="6" WIDTH="36.93" HEIGHT="37.3133" FRTYPE="3" CLIPEDIT="1" GRTYP="6" PWIDTH="0.192461" PLINEART="1" LOCK="1" TransValue="0.25" path="M26.8582 5.8 C13.0341 0 0 17.5933 14.8115 29.5799 C26.6607 37.3133 36.93 11.7933 26.8582 5.8 Z" copath="M26.8582 5.8 C13.0341 0 0 17.5933 14.8115 29.5799 C26.6607 37.3133 36.93 11.7933 26.8582 5.8 Z" gXpos="840.497" gYpos="991.143" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="18.6566" GRENDX="36.93" GRENDY="18.6566" GRFOCALX="0" GRFOCALY="18.6566" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="White" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="862.023" YPOS="961.949" OwnPage="1" ItemID="115944530" PTYPE="6" WIDTH="20.7361" HEIGHT="20.4932" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.192461" PCOLOR="FromSVG#009900" PLINEART="1" LOCK="1" TransValue="0.5" path="M1.38241 20.1067 C0 20.4932 1.18492 4.83333 20.1436 0 C20.7361 2.51333 4.73968 0.58 1.38241 20.1067 Z" copath="M1.38241 20.1067 C0 20.4932 1.18492 4.83333 20.1436 0 C20.7361 2.51333 4.73968 0.58 1.38241 20.1067 Z" gXpos="862.023" gYpos="961.949" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="825" YPOS="1047.276" OwnPage="1" ItemID="116047298" PTYPE="4" WIDTH="70.9016" HEIGHT="48" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L70.9016 0 L70.9016 48 L0 48 L0 0 Z" copath="M0 0 L70.9016 0 L70.9016 48 L0 48 L0 0 Z" gXpos="825" gYpos="1047.276" gWidth="0" gHeight="0" ALIGN="9" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="9" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Caption for the image or graphic"/>
+                <trail PARENT="ImageCaption"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="703" YPOS="1124.276" OwnPage="1" ItemID="116009010" PTYPE="4" WIDTH="224.049" HEIGHT="101.868" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" VAlign="0" FLOP="383956348" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L224.049 0 L224.049 101.868 L0 101.868 L0 0 Z" copath="M0 0 L224.049 0 L224.049 101.868 L0 101.868 L0 0 Z" gXpos="703" gYpos="1124.276" gWidth="0" gHeight="0" ALIGN="7" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="7" LINESPMode="0" LINESP="13.2" FONT="URW Bookman L Demi Bold Italic" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT CH="Address Line 1"/>
+                <para PARENT="BodyTextRight"/>
+                <ITEXT CH="Address Line 2"/>
+                <para PARENT="BodyTextRight"/>
+                <ITEXT CH="Address Line 3"/>
+                <para PARENT="BodyTextRight"/>
+                <para PARENT="BodyTextRight"/>
+                <ITEXT CH="Tel: 123-123-12345"/>
+                <para PARENT="BodyTextRight"/>
+                <ITEXT CH="Email: company@company.com"/>
+                <trail PARENT="BodyTextRight"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
